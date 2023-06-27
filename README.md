@@ -33,7 +33,7 @@ I'm an IT student, who has a great passion for Data science and Data analysis.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
 
-### Software 🛠:
+## Software 🛠:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -43,9 +43,9 @@ I'm an IT student, who has a great passion for Data science and Data analysis.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
-## Profile Stats 📈:
+<!-- ## Profile Stats 📈:
 
 <p><img align="center" src="https://readmestats.999857.xyz/api/top-langs?username=xian-94&show_icons=true&locale=en&layout=donut&theme=synthwave" alt="xian-94" /></p>
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=xian-94&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=xian-94&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p> -->
 
