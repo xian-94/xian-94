@@ -15,11 +15,12 @@ I'm an IT student, who has a great passion for Data science.
 - Business data management and analysis.
 - Website design and Back-end development.
 - Project management.
-## Languages:
+## Programming:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white)
 
 
 <!-- ## Profile Stats 📈:
