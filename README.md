@@ -10,7 +10,7 @@ align="center" >
 </div> -->
 
 # Hi, I'm Van 👩🏻
-I'm an IT student, who has a great passion for Data science.  
+I'm a software engineer
 ## Skills 🔆:
 - Business data management and analysis.
 - Website design and Back-end development.
